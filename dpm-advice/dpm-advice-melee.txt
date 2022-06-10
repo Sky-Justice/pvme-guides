@@ -178,13 +178,14 @@
     • Cooldown: 17t (10.2s)
     • It is affected by Gloves of Passage <:Glovesofpassage:556588694862037012>
         - The damage of the next ability done on the main target is increased by 7%
+	- It boosts bleed damage by 20% for the next 10 seconds. 
 
 ⬥ **Smash** <:smash:535532879820619786>
     • Cooldown: 17t (10.2s)
     • It is affected by Gloves of Passage <:Glovesofpassage:556588694862037012>
         - The damage of the next ability done on the main target is increased by 7%
+	- It boosts bleed damage by 20% for the next 10 seconds. 
 
-.
 ⬥ **Slice** <:slice:535532879594258432>
     • Cooldown: 5t (3s)
     • Damage boosted on stun/bound targets:
@@ -224,12 +225,14 @@
 ⬥ **Destroy** <:destroy:535532879330148352>
     • Cooldown: 34t (20.4s)
     • It shares cooldown with Hurricane <:cane:535532878969438210>
+    	- The T85 Dark Ice and T95 Leng sets unlink this cooldown. 
     • Stuns for 6t (3.6s)
     • Channelled ability
 
 ⬥ **Hurricane** <:cane:535532878969438210>
     • Cooldown: 34t (20.4s)
     • It shares cooldown with Destroy <:destroy:535532879330148352>
+    	- The T85 Dark Ice and T95 Leng sets unlink this cooldown. 
     • It is an AoE:
         - 3x3 with player as centre
         - 5x5 with player as centre with Halberd-type weapon
@@ -246,6 +249,7 @@
     • All normal flurry things apply
     • It also has some additional effects:
         - For each successful hit on any target reduce Berserk <:Berserk:513190158468907012> cooldown by 2t/hit (1.2s/hit) for up to an 8t (4.8s) reduction
+	- Multiple targets do not proc this effect multiple times
         - When used on a single target, hits go from 94%/ea to 157%/ea
 
 .
@@ -368,8 +372,9 @@
 ⬥ **Overpower** <:overpower:535532879334080517>
     • Cooldown: 50t (30s)
     • Is affected by the Igneous Kal-Ket <:igneouskalket:902209626404192316> and the Igneous Kal-Zuk <:igneouskalzuk:902209626479685734>. The effects of these capes are as follows:
-        -  The ability's adrenaline cost and the amount of adrenaline required to activate it are reduced to 60%.
-        -  The ability also hits twice.
+        -  The ability's adrenaline cost and the amount of adrenaline required to activate it are reduced to 60%
+        -  The ability also hits twice
+	-  Adrenaline reduced from the Ultimatums perk does not stack with Vigour and Conservation of Energy
 
 .
 ⬥ **Massacre** <:massacre:535532879384543253>
@@ -379,7 +384,7 @@
         - Not affected by Precise <:p6:712073088769982475> or Equilibrium <:eq4:712073088589627505>
         - Hits 5 times total, once every 2t (1.2s)
     • The Bleed can be extended:
-        - Masterwork Spear of Annilihation <:mwspear:694566917456789554> adds 2 hits
+        - Masterwork Spear of Annilihation <:mwspear:694566917456789554> adds 2 hits when stalled
 
 ⬥ **Frenzy** <:frenzy:535532879279554581>
     • Cooldown: 100t (60s)
@@ -414,6 +419,7 @@ Refer to this table for hit timings of each ability:
     • To cancel on 3rd hit you would cancel on t5 (3s)
     • To cancel on 2nd hit you would cancel on t3 (1.8s)
         - The above cancel timings are the same for Flurry <:flurry:864492981763702834>, Greater Flurry <:gflurry:535532879283879977>, and Frenzy <:frenzy:535532879279554581>
+⬥ You can cancel channels moving out of range between hits. For example, moving backwards on t6 of destroy. This is useful for walking bosses or dodging melee distance attacks, (Araxxor Cleave) 
 
 .
 **__2H vs Dual Wield Assault__**
